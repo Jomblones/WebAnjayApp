@@ -59,6 +59,8 @@ section {
 }
 
 .left-col .subhead {
+  color: gray;
+  letter-spacing: 1px;
   text-transform: uppercase;
   font-weight: bold;
 }
